@@ -1,3 +1,4 @@
-true|Mtho
-false|Kamo
-false|Olwethu
+false|Buy Bread
+false|Go to gym
+true|Do some coding
+false|Go to Campus
